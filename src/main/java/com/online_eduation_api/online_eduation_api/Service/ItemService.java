@@ -1,12 +1,12 @@
-package com.online_eduation_api.online_eduation_api.Service;
+package com.online_gateway_api.online_gateway_api.Service;
 
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
-import com.online_eduation_api.online_eduation_api.ResourceNotFoundException;
-import com.online_eduation_api.online_eduation_api.repository.ItemRepository;
-import com.online_eduation_api.online_eduation_api.repository.entity.Item;
+import com.online_gateway_api.online_gateway_api.ResourceNotFoundException;
+import com.online_gateway_api.online_gateway_api.repository.ItemRepository;
+import com.online_gateway_api.online_gateway_api.repository.entity.Item;
 
 import java.util.List;
 

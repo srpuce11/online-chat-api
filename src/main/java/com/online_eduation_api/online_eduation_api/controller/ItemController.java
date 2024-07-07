@@ -1,4 +1,4 @@
-package com.online_eduation_api.online_eduation_api.controller;
+package com.online_gateway_api.online_gateway_api.controller;
 
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
@@ -6,8 +6,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import com.online_eduation_api.online_eduation_api.Service.ItemService;
-import com.online_eduation_api.online_eduation_api.repository.entity.Item;
+import com.online_gateway_api.online_gateway_api.Service.ItemService;
+import com.online_gateway_api.online_gateway_api.repository.entity.Item;
 
 import java.util.List;
 

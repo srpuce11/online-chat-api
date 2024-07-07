@@ -1,4 +1,4 @@
-package com.online_eduation_api.online_eduation_api.repository.entity;
+package com.online_gateway_api.online_gateway_api.repository.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -1,13 +1,13 @@
-package com.online_eduation_api.online_eduation_api;
+package com.online_gateway_api.online_gateway_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OnlineEduationApiApplicationTests {
+class OnlinegatewayApiApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
